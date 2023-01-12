@@ -33,3 +33,5 @@ Simple search:
 Group search:
 
 ![group search](https://user-images.githubusercontent.com/97065934/212097621-506b1183-ed53-443b-9d7a-56e4a9e2d0f3.png)
+
+Para rodar o projeto, basta configurar o banco de dados em appsetings.json e gerar os dados com entity framwork.
